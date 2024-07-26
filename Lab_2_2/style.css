@@ -1,0 +1,33 @@
+.firstDiv {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    /* Adding paddings */
+    padding: 40px;
+    /* Adding borders */
+    border: solid 10px;
+}
+
+.secondDiv {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    /* Adding borders */
+    border: solid 20px;
+
+    /* Adding margin to left */
+    margin-left: 300px;
+
+
+}
+
+.thirdDiv {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    /* Adding borders */
+    border: solid 10px;
+
+    /* Adding Margin to left*/
+    margin-left: 540px;
+}
