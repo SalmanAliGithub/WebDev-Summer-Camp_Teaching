@@ -1,0 +1,15 @@
+h2 {
+    color: green;
+}
+
+p {
+    background-color: aqua;
+}
+
+.blacked {
+    background-color: black;
+}
+
+#idStyle {
+   color: blueviolet; 
+}
