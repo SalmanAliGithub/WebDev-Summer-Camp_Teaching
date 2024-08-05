@@ -1,0 +1,29 @@
+.green {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    position:absolute;
+    bottom: 40px;
+}
+
+.yellow {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    position: absolute;
+    right: 50px;
+}
+
+.red {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position:absolute;
+    right: 50px;
+}
+
+.yellowParent {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+}
