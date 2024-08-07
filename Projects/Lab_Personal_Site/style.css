@@ -1,0 +1,48 @@
+
+.button {
+    background-color: rgb(47, 149, 149);
+    font-size: larger;
+    padding: 5px 10px 5px 10px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: white;
+}
+
+.button:hover {
+    /* background-color: rgb(22, 108, 108); */
+    background-color: red;
+    text-decoration: underline;
+}
+
+#topCloud {
+    position: relative;
+    left: 500px;
+}
+
+#bottomCloud {
+    position: relative;
+    left: 200px;
+}
+
+span {
+    text-decoration: underline;
+}
+
+.mountain {
+    width: 350px;
+    position: relative;
+    left: 400px;
+    display: block;
+
+}
+
+h1 {
+    font-family: 'Sacramento', sans-serif;
+}
+
+hr {
+    border: 10px aqua dotted;
+    width: 5%;
+    border-bottom: none;
+    margin: 100px auto;
+}
